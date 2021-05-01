@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#PythonQuiz.py
+#Factorial.py
 #James Maki
 #May 01, 2021
 
