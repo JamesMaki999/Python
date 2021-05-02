@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #Python/Mathematical Functions/FSum.py
 #James Maki
-#May 01, 2021
+#May 02, 2021
 
 """
 The fsum() function calculates and returns the sum of Lists and Tuples (iterates).
