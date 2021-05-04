@@ -37,6 +37,6 @@ if x <= y:                  # Equates to True, 10 is less than or equal to 20
 
 #Invalid If Statement
 if x = y:                   # Syntax error, cannot use an Assignment Operator
-    print("'x' is equal to 'y'")
+    print("'x' equals 'y'")
 if x == y:
 print("'x' is equal to 'y'")# Raises an error because Indentation is incredibly important in Python
